@@ -1,1 +1,1 @@
-feature work
+Line from conflict-demo branch
